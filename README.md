@@ -27,5 +27,5 @@ LiDAR calibration and synchronization validation.
 
 Sensor fusion in autonomous systems.
 
-🛠Getting Started
+Getting Started
 Coming soon: Installation and usage instructions for accessing and visualizing the datasets.
